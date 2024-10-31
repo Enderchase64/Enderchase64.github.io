@@ -3,4 +3,26 @@ body{
 }
 #title {
     font-size: 50px;
+    background-color: aliceblue;
+}
+#question{
+    background-color: aliceblue;
+}
+#author{
+    background-color: aliceblue;
+}
+#mainText{
+    background-color:aliceblue;
+}
+#epa{
+    background-color: aliceblue;
+}
+#challenge{
+    background-color: aliceblue;
+}
+#public{
+    background-color: aliceblue;
+}
+#anno{
+    background-color: aliceblue;
 }
