@@ -13,6 +13,10 @@ body{
 }
 #mainText{
     background-color:aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 #epa{
     background-color: aliceblue;
@@ -24,5 +28,97 @@ body{
     background-color: aliceblue;
 }
 #source{
-    background-color:azure
+    background-color: #3bb6e3;
+}
+#anno{
+    background-color:aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#iceMin{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#GWCC{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#indicators{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#fossilFuel{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#tedTalk{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+    overflow-wrap: break-word;
+}
+#cat6{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#climateSum{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#globalSeaLevel{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#hurricane{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+#meltGlaciers{
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+
+#video{
+    float: right;
+    background-color: azure;
+    padding-left: 2px;
+}
+#rainChange{
+    text-align: center;
+    float: right;
+    background-color: azure;
+    padding-left: 2px;
+}
+#flood{
+    text-align: center;
+    float: right;
+    background-color: azure;
+    padding-left: 3px;
+}
+#tempChange{
+    text-align: center;
+    float: right;
+    background-color: azure;
+    padding-left: 3px;
 }
