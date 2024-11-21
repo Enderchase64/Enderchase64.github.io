@@ -1,5 +1,10 @@
 body{
-    background-color: #3bb6e3;
+  /*  background-color: #3bb6e3; */
+    background-color: #e8f0d8;
+    background-image: url("environment-background.jpg");
+    background-position: bottom;
+    background-repeat: repeat-x; 
+    min-height: 100vh;
 }
 #title {
     font-size: 50px;
@@ -15,9 +20,10 @@ body{
     background-color:aliceblue;
     margin-left: 5px;
     margin-right: 5px;
+    padding-top: 5px;
     padding-left: 5px;
-    padding-right: 5px;
-}
+    padding-right: 5px; 
+} 
 #epa{
     background-color: aliceblue;
 }
@@ -28,7 +34,12 @@ body{
     background-color: aliceblue;
 }
 #source{
-    background-color: #3bb6e3;
+   /* background-color: #3bb6e3; */
+   background-color: #e8f0d8;
+   background-image: url("environment-background.jpg");
+   background-position: bottom;
+   background-repeat: repeat-x; 
+   min-height: 100vh;
 }
 #anno{
     background-color:aliceblue;
@@ -42,30 +53,35 @@ body{
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #GWCC{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #indicators{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #fossilFuel{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #tedTalk{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
     overflow-wrap: break-word;
 }
 #cat6{
@@ -73,52 +89,63 @@ body{
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #climateSum{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #globalSeaLevel{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #hurricane{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 #meltGlaciers{
     background-color: aliceblue;
     text-indent: -36px;
     padding-left: 40px;
     padding-right: 4px;
+    padding-bottom: 4px;
 }
 
 #video{
     float: right;
-    background-color: azure;
+ /*   background-color: azure; */
     padding-left: 2px;
 }
 #rainChange{
     text-align: center;
     float: right;
-    background-color: azure;
+ /*   background-color: azure; */
     padding-left: 2px;
 }
 #flood{
     text-align: center;
     float: right;
-    background-color: azure;
+ /*   background-color: azure; */
     padding-left: 3px;
 }
 #tempChange{
     text-align: center;
     float: right;
-    background-color: azure;
+ /*   background-color: azure; */
     padding-left: 3px;
+}
+#buttonID {
+    color: aquamarine;
+}
+#cause{
+    background-color: aliceblue;
 }
