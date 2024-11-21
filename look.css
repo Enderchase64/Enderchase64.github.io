@@ -48,6 +48,13 @@ body{
     padding-left: 5px;
     padding-right: 5px;
 }
+#links {
+    background-color: aliceblue;
+    text-indent: -36px;
+    padding-left: 40px;
+    padding-right: 4px;
+}
+/*
 #iceMin{
     background-color: aliceblue;
     text-indent: -36px;
@@ -119,7 +126,7 @@ body{
     padding-right: 4px;
     padding-bottom: 4px;
 }
-
+ */
 #video{
     float: right;
  /*   background-color: azure; */
@@ -149,10 +156,12 @@ body{
  /*   background-color: azure; */
     padding-left: 3px;
 }
-#buttonID {
- /*   color: aquamarine; */
-      color:rgb(46, 72, 63);
+#buttonIDLong {
+    color: aquamarine;
 }
+#buttonIDShort {
+         color:rgb(46, 72, 63);
+   }
 #cause{
     background-color: aliceblue;
 }
