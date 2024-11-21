@@ -143,8 +143,15 @@ body{
  /*   background-color: azure; */
     padding-left: 3px;
 }
+#reactor{
+    text-align: center;
+    float: right;
+ /*   background-color: azure; */
+    padding-left: 3px;
+}
 #buttonID {
-    color: aquamarine;
+ /*   color: aquamarine; */
+      color:rgb(46, 72, 63);
 }
 #cause{
     background-color: aliceblue;
